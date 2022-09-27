@@ -17,7 +17,7 @@ if(true) {
 
 if(true) {
     let cinsiyet = "Kadin";
-    let isim = "Cagla"; // let ile tanimlanan kapsamlar yerel scope'tur.
+    let isim = "Serap"; // let ile tanimlanan kapsamlar yerel scope'tur.
     console.log(isim);
 }
 
